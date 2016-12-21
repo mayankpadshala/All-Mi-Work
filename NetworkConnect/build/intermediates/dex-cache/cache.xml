@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mind/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_cfd54a48058993008b0415cbdd6ab41b0b7954bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a986bee4443b02557f6707e6b64ccd26e0751898">
+        <dex dex="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e906643d957e3dc8cae4e356bc5fa861cf64ea1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_b3a1f9050ce6bd3391ddfdb4cf2e674207152ec8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-23.3.0_f07d5d613221d09e6db758184d5023ff44016716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_1b73eb6cb5b244856db36a419e80638fec9572a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="56ace327fd1d2f63373ff0ef1cc3e69a15a4e9f1">
+        <dex dex="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_819d687fc3568ccfb516d697be9cfb906dbd8354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_2d3d00149ea218b9228bdd3af93378af4181b535/classes.dex" />
+    </item>
+
+</items>

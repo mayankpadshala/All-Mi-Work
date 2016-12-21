@@ -1,0 +1,7 @@
+#Wed Dec 21 17:18:47 IST 2016
+base.0=/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e906643d957e3dc8cae4e356bc5fa861cf64ea1c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_819d687fc3568ccfb516d697be9cfb906dbd8354/classes.dex
+base.1=/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_819d687fc3568ccfb516d697be9cfb906dbd8354
+file.0=/home/mind/Desktop/test/NetworkConnect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e906643d957e3dc8cae4e356bc5fa861cf64ea1c/classes.dex
