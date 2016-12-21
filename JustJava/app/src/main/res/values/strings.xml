@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="whipCream">Wihpped Cream</string>
+    <string name="orderSummaryEmailSubject">JustJava Oder for </string>
+</resources>

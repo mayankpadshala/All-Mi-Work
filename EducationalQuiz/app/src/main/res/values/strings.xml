@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">EducationalQuiz</string>
+
+    <string name="question1">You want to purchase 3-cent stamps. You are at the post office and waiting in line for your turn. How many 3-cent stamps you will get in a dozen?</string>
+    <string name="option1Q1">4</string>
+    <string name="option2Q1">24</string>
+    <string name="option3Q1">6</string>
+    <string name="option4Q1">12</string>
+
+    <string name="question2">Complete the series. 9 = 4, 21 = 9, 22 = 9, 24 = 10, 8 = 5, 7 = 5, 99 = 10, 100 = 7, 16 = ?, 17 = ?</string>
+    <string name="option1Q2">7, 9</string>
+    <string name="option2Q2">6, 6</string>
+    <string name="option3Q2">7, 7</string>
+    <string name="option4Q2">7, 8</string>
+
+    <string name="question3">Two men play 7 games of checkers. Each wins an equal number of games and yet, there are no ties. How is this possible?</string>
+    <string name="option1Q3">They are playing Online</string>
+    <string name="option2Q3">All the matches they played were tie.</string>
+    <string name="option3Q3">They were not playing with each other</string>
+    <string name="option4Q3">All of the above are possible.</string>
+
+    <string name="question4">You have a cup placed on a table. You are pointing towards the North and the cup is facing towards the South. On which side is the handle of the cup?</string>
+    <string name="option1Q4">South</string>
+    <string name="option2Q4">North</string>
+    <string name="option3Q4">East</string>
+    <string name="option4Q4">Outside</string>
+
+    <string name="question5">Larry father has five sons named Ten, Twenty, Thirty, Forty...Guess what would be the name of the fifth?</string>
+    <string name="option1Q5">Fifty</string>
+    <string name="option2Q5">Cannot Guess</string>
+    <string name="option3Q5">Larry</string>
+
+    <string name="question6">What goes up and down, but still remains in the same place?</string>
+    <string name="option1Q6">Eyes</string>
+    <string name="option2Q6">Heart</string>
+    <string name="option3Q6">Zip</string>
+    <string name="option4Q6">Stairs</string>
+
+    <string name="question7">The day before yesterday, Chris was 7 years old. Next year, she will turn 10. What is his birth date?</string>
+    <string name="option1Q7">28th February</string>
+    <string name="option2Q7">Does Not Matter</string>
+    <string name="option3Q7">1st January</string>
+    <string name="option4Q7">31st December</string>
+
+</resources>
