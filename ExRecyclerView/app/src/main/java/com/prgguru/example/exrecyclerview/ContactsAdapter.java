@@ -88,6 +88,9 @@ public class ContactsAdapter extends RecyclerView.Adapter<ContactsAdapter.ViewHo
         button.setText("Message");
     }
 
+
+
+
     @Override
     public int getItemCount() {
         return mContacts.size();
